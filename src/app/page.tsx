@@ -10,7 +10,6 @@ export default async function Home() {
 
  
   const todos = await getTodos();
-  // await prisma.todo.create({data: {title:'test01', complete:false}})
 
   return (
     <>
