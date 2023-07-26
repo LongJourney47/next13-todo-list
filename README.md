@@ -1,5 +1,5 @@
-## What is the Book inventory App?
-For the time being, the application serves to allow users to simply had any todos onto a list to then be tracked.
+## What is the next13 Todo List App?
+For the time being, the application serves to allow users to simply add any todos onto a list to then be tracked.
 
 In the project directory, you can run:
 
